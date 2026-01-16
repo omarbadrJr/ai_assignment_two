@@ -1,10 +1,9 @@
+**Alexandria National University**
+**Data Science & AI Department**
 **Student Names and IDs:**
 
-- Omar Hany Ramadan Badr (ID: 2405728)
-
-- Aly Ameen Abd-ElMawla (ID: 2405765)
-
-**Repository Link:** [https://github.com/omarbadrJr/ai_assignment_two](https://github.com/omarbadrJr/ai_assignment_two)
+- Omar Hany Ramadan Badr
+- ID 2405728
 
 ---
 

@@ -2,10 +2,10 @@
 
 **Data Science & AI Department**
 
-**Student Names and IDs:**
+**Student Name and ID:**
 
-- Omar Hany Ramadan Badr
-- ID 2405728
+- *Omar Hany Ramadan Badr*
+- *ID 2405728*
 
 ---
 
